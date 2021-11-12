@@ -1,0 +1,7 @@
+PROGRAM array01;
+  VAR arr : ARRAY 10 OF INTEGER;
+  VAR x: INTEGER;
+
+BEGIN
+  arr[0+1] := 42;
+END.
